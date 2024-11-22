@@ -1,0 +1,3 @@
+[submodule "Plugins/sqlite-net-extensions~"]
+	path = Plugins/sqlite-net-extensions~
+	url = https://github.com/media-tools/sqlite-net-extensions.git
