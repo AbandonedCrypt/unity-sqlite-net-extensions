@@ -1,0 +1,16 @@
+{
+    "name": "SqliteNetExtensions",
+    "rootNamespace": "SQLiteNetExtensions",
+    "references": [
+        "Gilzoide.SqliteNet"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
