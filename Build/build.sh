@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#^ Execute from project root
+
 SOURCE_DIR="Source/sqlite-net-extensions~/SQLiteNetExtensions"
 DEST_DIR="Runtime/sqlite-net-extensions"
 
