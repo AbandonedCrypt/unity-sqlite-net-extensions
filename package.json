@@ -1,7 +1,7 @@
 {
   "name": "com.abandonedcrypt.unity-sqlite-net-extensions",
   "displayName": "Unity sqlite-net Extensions",
-  "version": "0.0.7",
+  "version": "0.1.0",
   "description": "SQLite Extension Addon for Unity. Requires any sqlite-net version for unity.",
   "homepage": "https://github.com/AbandonedCrypt/unity-sqlite-net-extensions",
   "license": "MIT",
@@ -11,6 +11,6 @@
     "url": "https://github.com/AbandonedCrypt"
   },
   "dependencies": {
-    "com.unity.nuget.newtonsoft-json": ">=3.2"
+    "com.unity.nuget.newtonsoft-json": "3.2.1"
   }
 }
